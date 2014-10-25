@@ -2,6 +2,6 @@
 
 * **Status**: TDWG prior standard
 * **Category**: -
-* **Date Submitted**: 2006-11-24
-* **Date Published**: 1986-10-01
-* **Last Modified**: 2006-11-24
+* **Date submitted**: 2006-11-24
+* **Date published**: 1986-10-01
+* **Last modified**: 2006-11-24
