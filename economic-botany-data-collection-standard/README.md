@@ -1,4 +1,4 @@
-# Economic Botany Data Collection Standard
+# Economic botany data collection standard
 
 * **Status**: TDWG prior standard
 * **Category**: Best current practice
