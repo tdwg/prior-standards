@@ -9,6 +9,7 @@ Archive of prior TDWG standards.
 * [Index Herbariorum. part I: The herbaria of the world](/index-herbariorum-part-i)
 * [Botanico periodicum huntianum supplementum](/botanico-periodicum-huntianum-supplementum)
 * [XDF - A language for the definition and exchange of biological data sets](/xdf)
+* [World geographical scheme for recording plant distributions](/world-geographical-scheme-for-recording-plant-distributions)
 * [Authors of plant names](/authors-of-plant-names)
 * [Plant names in botanical databases](/plant-names-in-botanical-databases)
 * [Plant occurrence and status scheme](/poss)
