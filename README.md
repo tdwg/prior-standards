@@ -9,4 +9,5 @@ Archive of prior TDWG standards.
 * [Index Herbariorum. part I: The herbaria of the world](/index-herbariorum-part-i)
 * [Botanico periodicum huntianum supplementum](/botanico-periodicum-huntianum-supplementum)
 * [XDF - A language for the definition and exchange of biological data sets](/xdf)
+* [Plant occurrence and status scheme](/poss)
 * [Economic botany data collection standard](/economic-botany-data-collection-standard)
