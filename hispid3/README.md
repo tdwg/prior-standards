@@ -1,6 +1,6 @@
-# HISPID3 - Herbarium Information Standards and Protocols for Interchange of Data
+# HISPID3 - Herbarium information standards and protocols for interchange of data
 
-* **Download**: [Download](/download/110-540-1-RV.html)
+* **Download**: [Download](110-540-1-RV.html)
 * **Status**: TDWG prior standard
 * **Category**: Technical specification
 * **TDWG task group**: Observation and Specimen Records (OSR)
