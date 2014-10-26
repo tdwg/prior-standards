@@ -14,3 +14,4 @@ Archive of prior TDWG standards.
 * [Plant names in botanical databases](/plant-names-in-botanical-databases)
 * [Plant occurrence and status scheme](/poss)
 * [Economic botany data collection standard](/economic-botany-data-collection-standard)
+* [HISPID3 - Herbarium Information Standards and Protocols for Interchange of Data](/hispid3)
