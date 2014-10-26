@@ -1,6 +1,6 @@
 # World geographical scheme for recording plant distributions
 
-* **Download link**: [Download](/download/109-488-1-ED.zip)
+* **Download link**: [Download](109-488-1-ED.zip)
 * **Status**: TDWG prior standard
 * **Category**: -
 * **Date submitted**: 2006-11-24

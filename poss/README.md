@@ -1,6 +1,6 @@
 # Plant occurrence and status scheme
 
-* **Download link**: [Download](/download/106-522-1-RV.pdf)
+* **Download link**: [Download](106-522-1-RV.pdf)
 * **Status**: TDWG prior standard
 * **Category**: -
 * **Date submitted**: 2006-11-24

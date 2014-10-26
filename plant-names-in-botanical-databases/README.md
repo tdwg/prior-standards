@@ -1,6 +1,6 @@
 # Plant names in botanical databases
 
-* **Download link**: [Download](/download/113-528-1-RV.pdf)
+* **Download link**: [Download](113-528-1-RV.pdf)
 * **Status**: TDWG prior standard
 * **Category**: Best current practice
 * **Date submitted**: 2006-11-24

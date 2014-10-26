@@ -1,6 +1,6 @@
 # International transfer format for botanic garden plant records
 
-* **Download link**: [Download](/download/102-525-1-RV.pdf)
+* **Download link**: [Download](102-525-1-RV.pdf)
 * **Status**: TDWG prior standard
 * **Category**: Technical specification
 * **Date submitted**: 2006-11-24
