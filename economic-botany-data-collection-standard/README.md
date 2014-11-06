@@ -7,6 +7,9 @@
 * **Date published**: 1995-10-01
 * **Last modified**: 2006-11-24
 
+## Publication
+Cook. F.E.M. 1995. Economic botany data collection standard. Royal Botanic Gardens, Kew.
+
 ## Abstract
 
 Studies on the uses of plants are becoming increasingly important. Standardisation of terms and a unified system to describe uses are of enormous benefit to gatherers of information, especially where exchanges of data sets are involved.
