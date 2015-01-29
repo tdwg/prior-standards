@@ -15,4 +15,12 @@ The system offered covers the whole world and identifies units at four levels, f
 
 This publication provides an introduction to the system followed by an account of the rationale behind decisions and the problems that had to be considered in its design. The geographical standard itself is presented in five tables. A gazetteer is included which relates over 2100 geographical names to this system. Finally, the units recognised are shown in seventeen maps.
 
-See also the [2nd Edition](http://www.tdwg.org/geo2.htm).
+## 2nd Edition
+
+The second edition can also be obtained from the [Hunt Institute](http://www.nhm.ac.uk/hosted_sites/tdwg/SecondEdGeog.htm) or downloaded as a [pdf](http://www.tdwg.org/TDWG_geo2.pdf).
+ 
+The [text delimited files and revised database](http://www.nhm.ac.uk/hosted_sites/tdwg/geography_ed2.zip) (MS Access) are also available.
+ 
+Kew Gardens is providing [ArcView shape files for use in GIS](http://www.kew.org/gis/tdwg/index.html).
+
+
