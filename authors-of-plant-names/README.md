@@ -10,7 +10,7 @@
 
 An index of authors of plant scientific names. Includes flowering plants, gymnosperms, pteridophytes, bryophytes, algae, fungi and fossil plants. Full names, dates of birth and death when known, recommended abbreviations and groups in which names have been published, are given for each author.
 
-(Book description extracted from [Kewbooks.com](http://www.kewbooks.com/asps/ShowDetails.asp?id=23))
+(Book description extracted from [Kewbooks.com](http://shop.kew.org/authors-of-plant-names-11180))
 
 Since 1998 the database of author names and their standard forms (which formed the basis of the Brummitt & Powell's (1992) Authors of Plant Names) has been maintained and updated on line as part of the Plant Names Project.
 
