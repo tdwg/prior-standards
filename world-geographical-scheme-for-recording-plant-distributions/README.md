@@ -1,6 +1,6 @@
 # World geographical scheme for recording plant distributions
 
-* **Download link**: [Download](109-488-1-ED.zip)
+* **Download link**: [Download](109-488-1-ED)
 * **Status**: TDWG prior standard
 * **Category**: -
 * **Date submitted**: 2006-11-24
@@ -17,7 +17,7 @@ This publication provides an introduction to the system followed by an account o
 
 ## 2nd Edition
 
-The second edition can also be obtained from the [Hunt Institute](http://www.nhm.ac.uk/hosted_sites/tdwg/SecondEdGeog.htm) or downloaded as a [pdf](http://www.tdwg.org/TDWG_geo2.pdf).
+The second edition can also be obtained from the [Hunt Institute](http://www.nhm.ac.uk/hosted_sites/tdwg/SecondEdGeog.htm) or downloaded as a [pdf](109-488-1-ED/2nd Edition/TDWG_geo2.pdf).
  
 The [text delimited files and revised database](http://www.nhm.ac.uk/hosted_sites/tdwg/geography_ed2.zip) (MS Access) are also available.
  
