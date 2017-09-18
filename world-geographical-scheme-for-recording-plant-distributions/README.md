@@ -17,10 +17,8 @@ This publication provides an introduction to the system followed by an account o
 
 ## 2nd Edition
 
-The second edition can also be obtained from the [Hunt Institute](http://www.nhm.ac.uk/hosted_sites/tdwg/SecondEdGeog.htm) or downloaded as a [pdf](109-488-1-ED/2nd Edition/TDWG_geo2.pdf).
+The second edition can also be obtained from the [Hunt Institute](109-488-1-ED/2nd%20Edition/SecondEdGeog.htm) or downloaded as a [pdf](109-488-1-ED/2nd%20Edition/TDWG_geo2.pdf).
  
-The [text delimited files and revised database](http://www.nhm.ac.uk/hosted_sites/tdwg/geography_ed2.zip) (MS Access) are also available.
+The [text delimited files and revised database](109-488-1-ED/2nd%20Edition/TDWG_Geography_ed2.mdb) (MS Access) are also available.
  
 Kew Gardens is providing [ArcView shape files for use in GIS](http://www.kew.org/gis/tdwg/index.html).
-
-
