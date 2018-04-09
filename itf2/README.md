@@ -1,4 +1,4 @@
-# International transfer format for botanic garden plant records
+# International Transfer Format for Botanic Garden Plant Records (IFT2)
 
 * **Download link**: [Download](102-525-1-RV.pdf)
 * **Status**: TDWG prior standard
