@@ -1,4 +1,4 @@
-# Economic botany data collection standard
+# Economic Botany Data Collection Standard
 
 * **Status**: TDWG prior standard
 * **Category**: Best current practice
@@ -8,7 +8,7 @@
 * **Last modified**: 2006-11-24
 
 ## Publication
-Cook. F.E.M. 1995. Economic botany data collection standard. Royal Botanic Gardens, Kew.
+Cook. F.E.M. 1995. Economic Botany Data Collection Standard. Royal Botanic Gardens, Kew.
 
 ## Abstract
 
