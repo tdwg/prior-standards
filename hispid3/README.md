@@ -1,4 +1,4 @@
-# HISPID3 - Herbarium information standards and protocols for interchange of data
+# Herbarium Information Standards and Protocols for Interchange of Data (HISPID3)
 
 * **Download**: [Download](110-540-1-RV.html)
 * **Status**: TDWG prior standard
