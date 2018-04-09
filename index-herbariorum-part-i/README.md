@@ -1,4 +1,4 @@
-# Index Herbariorum, part I: The herbaria of the world
+# Index herbariorum. Part 1, The herbaria of the world
 
 * **Status**: TDWG prior standard
 * **Category**: -
