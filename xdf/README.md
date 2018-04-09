@@ -1,4 +1,4 @@
-# XDF - A language for the definition and exchange of biological data sets
+# A Language for the Definition and Exchange of Biological Data Sets (XDF)
 
 * **Status**: TDWG prior standard
 * **Category**: Technical specification
