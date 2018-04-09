@@ -1,4 +1,4 @@
-# Taxonomic literature, edition 2 and its supplements
+# Taxonomic Literature (TL-2)
 
 * **Status**: TDWG prior standard
 * **Category**: -
