@@ -1,4 +1,4 @@
-# Plant names in botanical databases
+# Plant Names in Botanical Databases
 
 * **Download link**: [Download](113-528-1-RV.pdf)
 * **Status**: TDWG prior standard
