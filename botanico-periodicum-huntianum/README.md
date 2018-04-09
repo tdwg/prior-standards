@@ -1,4 +1,4 @@
-# Botanico periodicum huntianum
+# Botanico-Periodicum-Huntianum
 
 * **Status**: TDWG prior standard
 * **Category**: -
