@@ -1,4 +1,4 @@
-# Authors of plant names
+# Authors of Plant Names
 
 * **Status**: TDWG prior standard
 * **Category**: -
