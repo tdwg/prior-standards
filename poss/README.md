@@ -1,4 +1,4 @@
-# Plant occurrence and status scheme
+# Plant Occurrence and Status Scheme (POSS)
 
 * **Download link**: [Download](106-522-1-RV.pdf)
 * **Status**: TDWG prior standard
